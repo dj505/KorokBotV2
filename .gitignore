@@ -1,0 +1,4 @@
+praw.ini
+*.txt
+*.log
+*.save
